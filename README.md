@@ -1,3 +1,6 @@
+# https://nbviewer.jupyter.org/
+- 주피터노트북 코드가 안보일때 위 링크로 들어가셔서 깃허브 URL입력하시면 됩니다.
+
 # Real-Time-Search-comparison-project
 네이버와 다음의 실시간 검색어 비교
 - 지정한 시간마다 주기적으로 실시간 검색어를 크롤링해 갱신한다.
